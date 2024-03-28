@@ -29,10 +29,10 @@ const siteProps = {
   email: "sahil.raj@studentambassadors.com",
   gitHub: "Sahil-1205ghub",
   instagram: "singh_siddharat1205",
-  linkedIn: "satyanadella",
+  linkedIn: "https://www.linkedin.com/in/sahil-raj-2a87b6253/",
   medium: "",
   twitter: "",
-  youTube: "",
+  youTube: "https://youtu.be/JfeiqBeRAeM?si=DapwLY8VXSzdh61P",
 };
 
 const primaryColor = "#4E567E";
